@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/Avinash7182/travel_management.git",
+  "homepage": "https://avinash7182.github.io/travel_management/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
